@@ -1,4 +1,4 @@
 # resume
-My latest Resume
+My Current Resume
 
 [View Resume](https://judyichiang.github.io/resume/)
